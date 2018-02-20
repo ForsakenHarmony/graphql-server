@@ -1,0 +1,4 @@
+input ReviewInput {
+  stars: Int!
+  commentary: String
+}
